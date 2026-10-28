@@ -1,0 +1,22 @@
+Feature,Importance
+num__age,0.4025571243890719
+num__avg_glucose_level,0.14564204148029755
+num__bmi,0.14313479969429008
+cat__ever_married_Yes,0.036242859118225564
+cat__ever_married_No,0.03177860859337753
+num__hypertension,0.031417338024194774
+num__heart_disease,0.028403340845109027
+cat__work_type_Self-employed,0.018746000300213565
+cat__smoking_status_never smoked,0.01799162945986149
+cat__work_type_children,0.017654988391232897
+cat__smoking_status_formerly smoked,0.016306345094172857
+cat__work_type_Private,0.016211630122795417
+cat__Residence_type_Urban,0.01474033239339229
+cat__gender_Male,0.014501529399986085
+cat__Residence_type_Rural,0.014448004429384214
+cat__smoking_status_smokes,0.013390040201736902
+cat__gender_Female,0.013295288322494247
+cat__smoking_status_Unknown,0.012945481720602052
+cat__work_type_Govt_job,0.010570819795166763
+cat__work_type_Never_worked,2.1798224395055465e-05
+cat__gender_Other,0.0
